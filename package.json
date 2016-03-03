@@ -1,0 +1,19 @@
+{
+  "name": "elastic",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Lahti <johan.lahti@malmo.se>",
+  "license": "MIT License",
+  "dependencies": {
+    "assign-deep": "^0.4.3",
+    "elasticsearch": "^10.1.3",
+    "express": "^4.13.4",
+    "textract": "^1.2.1",
+    "walk": "^2.3.9",
+    "yargs": "^4.2.0"
+  }
+}
